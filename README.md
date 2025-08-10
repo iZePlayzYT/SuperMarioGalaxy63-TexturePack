@@ -132,8 +132,9 @@ Pull requests are welcome. To keep both packs synchronized:
 
 ## **Credits**
 
-* **iZePlayz** — Main creator, upscaling, and DDS conversion
-* **Super Hackio** — HUD textures from *Super Hackio’s HUD Remastered Texture Pack*: [https://www.youtube.com/watch?v=\_TBhu-NfrX0](https://www.youtube.com/watch?v=_TBhu-NfrX0)
-* **CDAMJC** — Various textures from *SMG2 HD Texture Pack*: [https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod)
+* **iZePlayz** — Main creator, dumping, upscaling, bug fixing, DDS conversion
+* **SY24 & Super Hackio** — Various textures from their SMG2 HUD Remastered Texture Pack: [https://www.youtube.com/watch?v=\_TBhu-NfrX0](https://www.youtube.com/watch?v=_TBhu-NfrX0)
+* **CDAMJC** — Various textures from his SMG2 HD Texture Pack: [https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod)
+* **Remaining textures** — Created or reworked by iZePlayz
 
 ---
