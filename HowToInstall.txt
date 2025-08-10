@@ -1,0 +1,44 @@
+Super Mario Galaxy 63 – 4K Texture Pack (DDS)
+
+This 4K texture pack is for Super Mario Galaxy 63, a ROM hack of Super Mario Galaxy 2.
+It improves the game's visuals with higher quality textures optimized for Dolphin Emulator.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INSTALLATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Install the latest version of Dolphin Emulator:
+   https://dolphin-emu.org/
+
+2. Enable custom textures:
+   - In Dolphin, go to Graphics Settings → Advanced
+   - Enable: Load Custom Textures
+   - Disable: Prefetch Custom Textures
+
+3. From this ZIP, copy the included "SB4" folder into your Load/Textures directory:
+   Windows: C:\Users\<YourUsername>\AppData\Roaming\Dolphin Emulator\Load\Textures\
+   macOS:   ~/Library/Application Support/Dolphin/Load/Textures/
+   Linux:   ~/.local/share/dolphin-emu/Load/Textures/
+
+Important:
+- The "SB4" folder works for all game versions.
+- If you use the SB4 folder from the ZIP, make sure there are no version-specific folders
+  (SB4E01, SB4P01, SB4J01, etc.) in Load/Textures/, or some textures from SB4 may be ignored.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MORE INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PNG textures and unmodified texture dumps are available in the GitHub repository:
+https://github.com/iZePlayzYT/SuperMarioGalaxy63-TexturePack
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CREDITS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- iZePlayz — Main creator, dumping, upscaling, bug fixing, DDS conversion
+- SY24 & Super Hackio — Various textures from their SMG2 HUD Remastered Texture Pack:
+  https://www.youtube.com/watch?v=_TBhu-NfrX0
+- CDAMJC — Various textures from his SMG2 HD Texture Pack:
+  https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod
+- Remaining textures — Created or reworked by iZePlayz
