@@ -1,4 +1,4 @@
-# **Super Mario Galaxy 63 – Custom Texture Pack (PNG & DDS)**
+# **Super Mario Galaxy 63 – 4K Texture Pack (PNG & DDS)**
 
 This repository contains a complete texture pack for **Super Mario Galaxy 63**, a ROM hack of *Super Mario Galaxy 2*.
 The textures are available in two formats:
