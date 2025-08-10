@@ -44,8 +44,8 @@ Ensure the latest version of Dolphin Emulator is installed:
 1. Open Dolphin Emulator
 2. Go to `Graphics Settings` → `Advanced` and:
 
-   * **Enable: Load Custom Textures**
-   * **Disable: Prefetch Custom Textures**
+   * **Enable:** Load Custom Textures
+   * **Disable:** Prefetch Custom Textures
 
 ### **3. Placing the DDS Textures**
 
@@ -55,16 +55,27 @@ Navigate to Dolphin’s **User Directory**:
 * **macOS**: `~/Library/Application Support/Dolphin/Load/Textures/`
 * **Linux**: `~/.local/share/dolphin-emu/Load/Textures/`
 
-Create the appropriate folder for your game version and place the **DDS textures only** inside:
+You have two options:
+
+#### **Option A – General Folder (SB4)**
+
+If you downloaded the ZIP of a release, it contains a **folder named `SB4`** which works for **all versions** of the game.
+Place the **entire `SB4` folder** from the release ZIP directly into your `Load/Textures/` directory.
+
+**Important:** If you use the general `SB4` folder, make sure there are **no version-specific folders** (`SB4E01`, `SB4P01`, `SB4J01`, etc.) in `Load/Textures/`,
+otherwise Dolphin will load textures from those instead and ignore `SB4`.
+
+#### **Option B – Version-Specific Folder**
+
+If you prefer, create the folder for your specific game version and place the **DDS textures** inside:
 
 * **SB4E01** → NTSC-U (*Super Mario Galaxy 2*)
 * **SB4P01** → PAL (*Super Mario Galaxy 2*)
+* **SB4J01** → NTSC-J (*Super Mario Galaxy 2*)
 
-**Important:**
+If the folder doesn’t exist, create it manually.
 
-* Do **not** use PNG files in-game.
-* If the pack already contains an `SB4E01`/`SB4P01` folder, put its **contents** directly into the matching folder in `Load/Textures/`.
-* Create the folder manually if it doesn’t exist.
+**Do not** use PNG files in-game.
 
 ---
 
@@ -90,10 +101,9 @@ Create the appropriate folder for your game version and place the **DDS textures
 DDS textures for in-game use should be created using **Custom Texture Tool PS** (CTT-PS) with the exact settings shown below.
 
 **Download CTT-PS:**
-[[https://github.com/epicboy/Custom-Texture-Tool/releases](https://github.com/BigheadSMZ/Custom-Texture-Tool-PS)]([https://github.com/epicboy/Custom-Texture-Tool/releases](https://github.com/BigheadSMZ/Custom-Texture-Tool-PS))
+[https://github.com/epicboy/Custom-Texture-Tool/releases](https://github.com/epicboy/Custom-Texture-Tool/releases)
 
-**Settings:**
-<br><img width="563" height="785" alt="image" src="https://github.com/user-attachments/assets/71a5e7a5-bad7-4c06-91c0-04a87c731777"/>
+**Settings:** <br><img width="563" height="785" alt="image" src="https://github.com/user-attachments/assets/71a5e7a5-bad7-4c06-91c0-04a87c731777"/>
 
 ---
 
