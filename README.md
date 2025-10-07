@@ -1,7 +1,8 @@
-# **Super Mario Galaxy 63 – 4K Texture Pack (PNG & DDS)**
+# **Super Mario Galaxy 63 & Original SMG2 - 4K Texture Pack**
 
-This repository contains a complete texture pack for **Super Mario Galaxy 63**, a ROM hack of *Super Mario Galaxy 2*.
-The textures are available in two formats:
+This texture pack was created for Super Mario Galaxy 63, a ROM hack of Super Mario Galaxy 2.
+It improves the visuals with high-resolution 4K textures optimized for Dolphin Emulator.
+👉 The texture pack is also FULLY COMPATIBLE with original (vanilla) Super Mario Galaxy 2.
 
 * **DDS Texture Pack** – Optimized for in-game use in Dolphin Emulator (fast loading, smaller file size)
 * **PNG Texture Pack** – For development/editing only (do **not** use in-game)
