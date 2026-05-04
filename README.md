@@ -102,7 +102,7 @@ If the folder doesn’t exist, create it manually.
 DDS textures for in-game use should be created using **Custom Texture Tool PS** (CTT-PS) with the exact settings shown below.
 
 **Download CTT-PS:**
-[https://github.com/epicboy/Custom-Texture-Tool/releases](https://github.com/epicboy/Custom-Texture-Tool/releases)
+[https://github.com/BigheadSMZ/Custom-Texture-Tool-PS](https://github.com/BigheadSMZ/Custom-Texture-Tool-PS)
 
 **Settings:** <br><img width="563" height="785" alt="image" src="https://github.com/user-attachments/assets/71a5e7a5-bad7-4c06-91c0-04a87c731777"/>
 
